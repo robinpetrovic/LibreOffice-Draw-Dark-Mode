@@ -1,4 +1,4 @@
-# LibreOffice Draw Dark Mode
+# LibreOffice Draw Document Dark Theme
 
 ---
 
@@ -66,3 +66,4 @@ See the `LICENSE` file for the full license text.
 - Works only with **LibreOffice Draw**  
 - Images are not inverted; only **background and text** are adjusted  
 - Designed to make **working in dark environments** easier  
+
