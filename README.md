@@ -11,6 +11,8 @@ By publishing it, I wanted to **help others solve this issue** and make working 
 
 I originally developed this Dark Mode macro for personal use...
 
+---
+
 # LibreOffice Draw Dark Mode
 
 A simple Python macro for LibreOffice Draw that toggles all pages of a document between **light mode** and **dark mode**.
@@ -61,4 +63,5 @@ See the `LICENSE` file for the full license text.
 
 - Works only with **LibreOffice Draw**.
 - Images are not inverted; only **background and text** are adjusted.
+
 
